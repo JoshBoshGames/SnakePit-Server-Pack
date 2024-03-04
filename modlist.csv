@@ -78,10 +78,10 @@ rubidium_extras,Rubidium Extras,1.19.2_v1.4.3,rubidium_extras-1.19.2_v1.4.3.jar,
 immersivepetroleum,Immersive Petroleum,4.2.0-28,ImmersivePetroleum-1.19.2-4.2.0-28.jar,,https://minecraft.curseforge.com/projects/immersive-petroleum,https://github.com/TwistedGate/ImmersivePetroleum/issues
 forge,Forge,43.3.8,forge-1.19.2-43.3.8-universal.jar,,https://minecraftforge.net/,https://minecraftforge.net/
 mcwpaths,Macaw's Paths and Pavings,1.0.4,mcw-paths-1.0.4forge-mc1.19.2.jar,,https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings,
-dsurround,§3ImmersiveFX,5.1,ImmersiveFX 1.0.0 1.19.2.jar,,,https://github.com/Nyfaria/DynamicSurroundingsResurrected/issues
-sndctrl,§3ImmersiveFX: §eSound Control,5.1,ImmersiveFX 1.0.0 1.19.2.jar,,,https://github.com/Nyfaria/DynamicSurroundingsResurrected/issues
-environs,§3ImmersiveFX: §eEnvirons,5.1,ImmersiveFX 1.0.0 1.19.2.jar,,,https://github.com/Nyfaria/DynamicSurroundingsResurrected/issues
-mobeffects,§3ImmersiveFX: §eMob Effects,5.1,ImmersiveFX 1.0.0 1.19.2.jar,,,https://github.com/Nyfaria/DynamicSurroundingsResurrected/issues
+dsurround,Â§3ImmersiveFX,5.1,ImmersiveFX 1.0.0 1.19.2.jar,,,https://github.com/Nyfaria/DynamicSurroundingsResurrected/issues
+sndctrl,Â§3ImmersiveFX: Â§eSound Control,5.1,ImmersiveFX 1.0.0 1.19.2.jar,,,https://github.com/Nyfaria/DynamicSurroundingsResurrected/issues
+environs,Â§3ImmersiveFX: Â§eEnvirons,5.1,ImmersiveFX 1.0.0 1.19.2.jar,,,https://github.com/Nyfaria/DynamicSurroundingsResurrected/issues
+mobeffects,Â§3ImmersiveFX: Â§eMob Effects,5.1,ImmersiveFX 1.0.0 1.19.2.jar,,,https://github.com/Nyfaria/DynamicSurroundingsResurrected/issues
 createbb,Create: Broken Bad,2.4,createbb-1.19.2-2.4.jar,,,
 minecraft,Minecraft,1.19.2,client-1.19.2-20220805.130853-srg.jar,,,
 terrablender,TerraBlender,2.0.1.166,TerraBlender-forge-1.19.2-2.0.1.166.jar,,,https://github.com/Glitchfiend/TerraBlender/issues
@@ -203,7 +203,7 @@ toolbelt,Tool Belt,1.19.7,ToolBelt-1.19.2-1.19.7.jar,,https://github.com/gigaher
 titanium,Titanium,3.7.4,titanium-1.19.2-3.7.4-28.jar,,,
 jade,Jade,8.9.2,Jade-1.19.1-forge-8.9.2.jar,,https://minecraft.curseforge.com/projects/jade,
 ae2,Applied Energistics 2,12.9.9,appliedenergistics2-forge-12.9.9.jar,,,https://github.com/AppliedEnergistics/Applied-Energistics-2/issues
-arseng,Ars Énergistique,1.0.0,arseng-1.0.0.jar,,,https://github.com/62832/ArsEnergique/issues
+arseng,Ars Ã‰nergistique,1.0.0,arseng-1.0.0.jar,,,https://github.com/62832/ArsEnergique/issues
 merequester,ME Requester,1.19.2-1.1.4,merequester-forge-1.19.2-1.1.4.jar,,,https://github.com/AlmostReliable/merequester/issues
 ae2wtlib,AE2WTLib,12.9.7,AE2WTLib-12.9.7.jar,,,https://github.com/Mari023/AE2WirelessTerminalLibrary/issues
 createbufferandbeams,Create Buffer & Beams,1.0,cbandb_1.0-Forge_1.19.2.jar,,https://www.curseforge.com/minecraft/mc-mods/create-buffers-beams,
